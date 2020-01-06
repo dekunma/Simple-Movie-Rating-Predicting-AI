@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/a2.cpp
+a2.hpp
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/a2.hpp
+trim.hpp
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/trim.hpp
+algorithm
+-
+cctype
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+sstream
+-
+string
+-
+unordered_map
+-
+unordered_set
+-
+utility
+-
+vector
+-
+
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/a2.hpp
+fstream
+-
+string
+-
+unordered_map
+-
+unordered_set
+-
+utility
+-
+vector
+-
+
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/trim.hpp
+cctype
+-
+string
+-
+

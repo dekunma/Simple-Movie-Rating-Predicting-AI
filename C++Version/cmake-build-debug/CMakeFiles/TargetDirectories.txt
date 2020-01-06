@@ -1,0 +1,3 @@
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/cmake-build-debug/CMakeFiles/UWCS368PA2.dir
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dekun Ma/CLionProjects/UWCS368PA2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
