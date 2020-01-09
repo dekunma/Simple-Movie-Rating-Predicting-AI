@@ -68,7 +68,7 @@ void fillDictionary(std::ifstream &newInFile,
     // approximate # of lines of code in Gerald's implementation: < 20
     string line;
     while (getline(newInFile, line)){
-        stringstream ss (line);
+        stringstream ss = line;
         int rating;
         string w;
         ss >> rating;
@@ -97,7 +97,7 @@ void rateReviews(std::ifstream &testFile,
     // approximate # of lines of code in Gerald's implementation: < 20
     string line;
     while (getline(testFile, line)){
-        stringstream ss (line);
+        stringstream ss = line;
         string w;
         int count = 0;
         double rating = 0;
